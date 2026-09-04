@@ -1,0 +1,14 @@
+.DS_Store
+._*
+
+# Editors
+.vscode/
+.idea/
+.obsidian/
+.trash/
+
+# Backups / drafts
+*.bak
+*.orig
+*.tmp
+*.md.backup
