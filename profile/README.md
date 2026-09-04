@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/dailycal/.github/main/images/dc-logo.webp" alt="The Daily Californian" width="80%">
+  <a href="https://www.dailycal.org/">
+    <img src="https://raw.githubusercontent.com/dailycal/.github/main/images/dc-logo.webp" alt="The Daily Californian" width="80%">
+  </a>
 </div>
 
 ---
@@ -14,7 +16,7 @@ This Github organization houses the code, tools, and infrastructure that run our
   <tr>
     <!-- Daily Cal -->
     <td width="50%" valign="top">
-      <img src="https://raw.githubusercontent.com/dailycal/.github/main/images/sites/dc.png" width="48" height="48" alt="">
+      <a href="https://www.dailycal.org/"><img src="https://raw.githubusercontent.com/dailycal/.github/main/images/sites/dc.png" width="48" height="48" alt="The Daily Californian"></a>
       <br>
       <b><a href="https://www.dailycal.org/">The Daily Californian</a></b>
       <br>
@@ -22,7 +24,7 @@ This Github organization houses the code, tools, and infrastructure that run our
     </td>
     <!-- Stacks Magazine -->
     <td width="50%" valign="top">
-      <img src="https://raw.githubusercontent.com/dailycal/.github/main/images/sites/stacks.png" width="48" height="48" alt="">
+      <a href="https://stacksmagazine.org/"><img src="https://raw.githubusercontent.com/dailycal/.github/main/images/sites/stacks.png" width="48" height="48" alt="Stacks Magazine"></a>
       <br>
       <b><a href="https://stacksmagazine.org/">Stacks Magazine</a></b>
       <br>
@@ -32,7 +34,7 @@ This Github organization houses the code, tools, and infrastructure that run our
   <tr>
     <!-- Data -->
     <td width="50%" valign="top">
-      <img src="https://raw.githubusercontent.com/dailycal/.github/main/images/sites/data.png" width="48" height="48" alt="">
+      <a href="https://data.dailycal.org/"><img src="https://raw.githubusercontent.com/dailycal/.github/main/images/sites/data.png" width="48" height="48" alt="Daily Cal Data"></a>
       <br>
       <b><a href="https://data.dailycal.org/">Daily Cal Data</a></b>
       <br>
@@ -40,7 +42,7 @@ This Github organization houses the code, tools, and infrastructure that run our
     </td>
     <!-- DC Foundation -->
     <td width="50%" valign="top">
-      <img src="https://raw.githubusercontent.com/dailycal/.github/main/images/sites/foundation.png" width="48" height="48" alt="">
+      <a href="https://foundation.dailycal.org/"><img src="https://raw.githubusercontent.com/dailycal/.github/main/images/sites/foundation.png" width="48" height="48" alt="The Daily Californian Education Foundation"></a>
       <br>
       <b><a href="https://foundation.dailycal.org/">The Daily Californian Education Foundation</a></b>
       <br>
