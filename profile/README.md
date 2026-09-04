@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/dailycal/.github/main/images/dc-logo.webp" alt="The Daily Californian" width="230">
+  <img src="https://raw.githubusercontent.com/dailycal/.github/main/images/dc-logo.webp" alt="The Daily Californian" width="80%">
 </div>
 
 ---
