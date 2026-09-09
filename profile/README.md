@@ -49,6 +49,16 @@ This Github organization houses the code, tools, and infrastructure that run our
       As the fundraising arm of UC Berkeley’s independent student newspaper The Daily Californian, our mission is to cultivate a vast network of alumni to support local, independent, accountability journalism.
     </td>
   </tr>
+  <tr>
+    <!-- Status -->
+    <td width="50%" valign="top">
+      <a href="https://status.dailycal.org/"><img src="https://raw.githubusercontent.com/dailycal/.github/main/images/sites/status.png" width="48" height="48" alt="DailyCal Status"></a>
+      <br>
+      <b><a href="https://status.dailycal.org/">DailyCal Status</a></b>
+      <br>
+      Uptime monitoring and outage reporting for all of the Daily Cal's sites and services.
+    </td>
+  </tr>
 </table>
 
 <!-- Support -->
